@@ -1,6 +1,10 @@
 # AI Diplomacy Experiments
 
-This repository contains **AI Diplomacy experiments**, a multi-agent simulation designed to study negotiation, secret management, and strategic interactions among AI agents.
+This repository contains, among other files, **AI Diplomacy experiments**, a multi-agent simulation designed to study negotiation, secret management, and strategic interactions among AI agents.
+
+
+To run: 
+(run python diplomat.py)
 
 ## Overview
 
@@ -38,5 +42,4 @@ Agents act sequentially, sharing **public info** while protecting secrets. The j
 - **Model upgrade (Atlantica → Gemini Pro)** resulted in natural, goal-oriented dialogue, with Atlantica achieving goals for the first time and successfully defending secrets.
 
 
-```bash
-python diplomat.py
+
